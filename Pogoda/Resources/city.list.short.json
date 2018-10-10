@@ -1,0 +1,101 @@
+[
+  {
+    "id": 2643743,
+    "name": "London",
+    "country": "GB",
+    "coord": {
+      "lon": -0.12574,
+      "lat": 51.50853
+    }
+  },
+
+  {
+    "id": 1850147,
+    "name": "Tokyo",
+    "country": "JP",
+    "coord": {
+      "lon": 139.691711,
+      "lat": 35.689499
+    }
+  },
+
+  {
+    "id": 6455259,
+    "name": "Paris",
+    "country": "FR",
+    "coord": {
+      "lon": 2.35236,
+      "lat": 48.856461
+    }
+  },
+
+  {
+    "id": 6695624,
+    "name": "Warszawa",
+    "country": "PL",
+    "coord": {
+      "lon": 21.04191,
+      "lat": 52.23547
+    }
+  },
+
+  {
+    "id": 2950159,
+    "name": "Berlin",
+    "country": "DE",
+    "coord": {
+      "lon": 13.41053,
+      "lat": 52.524368
+    }
+  },
+
+  {
+    "id": 6356055,
+    "name": "Barcelona",
+    "country": "ES",
+    "coord": {
+      "lon": 2.12804,
+      "lat": 41.399422
+    }
+  },
+
+  {
+    "id": 703448,
+    "name": "Kiev",
+    "country": "UA",
+    "coord": {
+      "lon": 30.516666,
+      "lat": 50.433334
+    }
+  },
+
+  {
+    "id": 3067696,
+    "name": "Prague",
+    "country": "CZ",
+    "coord": {
+      "lon": 14.42076,
+      "lat": 50.088039
+    }
+  },
+
+  {
+    "id": 3054643,
+    "name": "Budapest",
+    "country": "HU",
+    "coord": {
+      "lon": 19.039909,
+      "lat": 47.498009
+    }
+  },
+
+  {
+    "id": 759734,
+    "name": "Rzeszow",
+    "country": "PL",
+    "coord": {
+      "lon": 21.99901,
+      "lat": 50.041321
+    }
+  }
+]

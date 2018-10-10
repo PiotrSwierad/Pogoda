@@ -1,0 +1,217 @@
+﻿@model IEnumerable<Pogoda.Models.SmallWeather>
+
+@{
+    ViewBag.Title = "Graph";
+}
+<br>
+@Html.ActionLink("Powrót", "Index", "Weathers", null, new { @class = "btn btn-info" })
+&nbsp &nbsp Ilość wpisów 
+<select id="amountOfEntries" name="amountOfEntries" class="btn btn-default dropdown-toggle"></select>
+
+<div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+<p id="demo"></p>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="https://code.highcharts.com/modules/export-data.js"></script>
+
+    <script type="text/javascript">
+        //{"ID":53,"WeatherReportId":51,"Temperature":21.43,"Humidity":73,"DateOf":"2018-08-22T10:13:16.55"}
+        var amountOf = [10, 20, 30, 40, 50, 75, 100];
+        var model = @Html.Raw(Json.Encode(Model));
+        var graphTemperature = []
+        var graphHumidity = []
+        var graphDate = []
+        var d;
+
+        for (var i in model) {
+            var item = model[i];
+            graphTemperature.push(item.Temperature);
+            graphHumidity.push(item.Humidity);
+            var tempString = item.DateOf
+            tempString = tempString.substring(6, tempString.length - 2)
+            var d = new Date(parseInt(tempString))
+            //graphDate.push(d.getHours() + ":" + d.getSeconds()); 
+            graphDate.push(d); 
+        }
+
+        graphTemperature = graphTemperature.slice(-50);
+        graphHumidity = graphHumidity.slice(-50);
+        graphDate = graphDate.slice(-50);
+
+        $('#amountOfEntries').empty();
+        $('#amountOfEntries').append('<option selected="true" disabled>Wybierz ilość</option>');
+        $.each(amountOf, function (i, p) {
+            $('#amountOfEntries').append($('<option></option>').val(p).html(p));
+        })
+
+        Highcharts.chart('container', {
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: 'Wykres temperatury i wilgotności'
+            },
+            subtitle: {
+                text: 'Źródło: openweathermap.org'
+            },
+            xAxis: [{
+                categories: graphDate,
+                crosshair: true
+            }],
+            yAxis: [{ // Primary yAxis
+                labels: {
+                    format: '{value}°C',
+                    style: {
+                        color: Highcharts.getOptions().colors[1]
+                    }
+                },
+                title: {
+                    text: 'Temperatura',
+                    style: {
+                        color: Highcharts.getOptions().colors[1]
+                    }
+                }
+            }, { // Secondary yAxis
+                title: {
+                    text: 'Wilgotność',
+                    style: {
+                        color: Highcharts.getOptions().colors[0]
+                    }
+                },
+                labels: {
+                    format: '{value} %',
+                    style: {
+                        color: Highcharts.getOptions().colors[0]
+                    }
+                },
+                opposite: true
+            }],
+            tooltip: {
+                shared: true
+            },
+            /*legend: {
+                layout: 'vertical',
+                align: 'left',
+                x: 120,
+                verticalAlign: 'top',
+                y: 100,
+                floating: true,
+                backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
+            },*/
+            series: [{
+                name: 'Wilgotność',
+                type: 'column',
+                yAxis: 1,
+                data: graphHumidity,
+                tooltip: {
+                    valueSuffix: ' %'
+                }
+
+            }, {
+                name: 'Temperatura',
+                type: 'spline',
+                data: graphTemperature,
+                tooltip: {
+                    valueSuffix: '°C'
+                }
+            }]
+        });
+
+
+
+        $('#amountOfEntries').change('change', function () {
+            graphTemperature = []
+            graphHumidity = []
+            graphDate = []
+
+            for (var i in model) {
+                var item = model[i];
+                graphTemperature.push(item.Temperature);
+                graphHumidity.push(item.Humidity);
+                var tempString = item.DateOf
+                tempString = tempString.substring(6, tempString.length - 2)
+                var d = new Date(parseInt(tempString))
+                graphDate.push(d);
+            }
+            graphTemperature = graphTemperature.slice(-$('#amountOfEntries').val());
+            graphHumidity = graphHumidity.slice(-$('#amountOfEntries').val());
+            graphDate = graphDate.slice(-$('#amountOfEntries').val());
+            Highcharts.chart('container', {
+                chart: {
+                    zoomType: 'xy'
+                },
+                title: {
+                    text: 'Wykres temperatury i wilgotności'
+                },
+                subtitle: {
+                    text: 'Źródło: openweathermap.org'
+                },
+                xAxis: [{
+                    categories: graphDate,
+                    crosshair: true
+                }],
+                yAxis: [{ // Primary yAxis
+                    labels: {
+                        format: '{value}°C',
+                        style: {
+                            color: Highcharts.getOptions().colors[1]
+                        }
+                    },
+                    title: {
+                        text: 'Temperatura',
+                        style: {
+                            color: Highcharts.getOptions().colors[1]
+                        }
+                    }
+                }, { // Secondary yAxis
+                    title: {
+                        text: 'Wilgotność',
+                        style: {
+                            color: Highcharts.getOptions().colors[0]
+                        }
+                    },
+                    labels: {
+                        format: '{value} %',
+                        style: {
+                            color: Highcharts.getOptions().colors[0]
+                        }
+                    },
+                    opposite: true
+                }],
+                tooltip: {
+                    shared: true
+                },
+               /* legend: {
+                    layout: 'vertical',
+                    align: 'left',
+                    x: 120,
+                    verticalAlign: 'top',
+                    y: 100,
+                    floating: true,
+                    backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || '#FFFFFF'
+                },*/
+                series: [{
+                    name: 'Wilgotność',
+                    type: 'column',
+                    yAxis: 1,
+                    data: graphHumidity,
+                    tooltip: {
+                        valueSuffix: ' %'
+                    }
+
+                }, {
+                    name: 'Temperatura',
+                    type: 'spline',
+                    data: graphTemperature,
+                    tooltip: {
+                        valueSuffix: '°C'
+                    }
+                }]
+            });
+        })
+    </script>
+}

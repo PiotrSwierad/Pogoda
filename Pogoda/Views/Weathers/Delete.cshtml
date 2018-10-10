@@ -1,0 +1,45 @@
+﻿@model Pogoda.Models.Weather
+
+@{
+    ViewBag.Title = "Usuń";
+}
+
+<h3>Czy na pewno chcesz usunąć wpis?</h3>
+<div>
+    <h4>Pogoda</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CityId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CityId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CityName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CityName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CityCountry)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CityCountry)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        @Html.ActionLink("Powrót", "Index", null, new { @class = "btn btn-default" })
+        <input type="submit" value="Usuń" class="btn btn-danger" />
+    </div>
+    }
+</div>

@@ -1,0 +1,57 @@
+﻿@model Pogoda.Models.Weather
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Dodaj nowe miasto do listy</h4>
+        <hr />
+
+        <div class="form-group">
+            <div class="col-sm-4">
+                <select id="listaMiast" name="listaMiast" class="btn btn-default dropdown-toggle"></select>
+                <input type="submit" value="Dodaj" class="btn btn-success" />
+                
+                
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                
+            </div>
+        </div>
+    </div>
+}
+
+    <div>
+        @Html.ActionLink("Powrót", "Index", null, new { @class = "btn btn-default" })
+    </div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        let dropdown = $('#listaMiast');
+        var currentDate = new Date();
+
+        dropdown.empty();
+        dropdown.append('<option selected="true" disabled>Wybierz miasto</option>');
+        dropdown.prop('selectedIndex', 0);
+
+        const url = "/Resources/city.list.short.json?nocache=" + currentDate
+
+        $.getJSON(url, function (miasto) {
+            $.each(miasto, function (key, entry) {
+                dropdown.append($('<option></option>').attr('value', entry.id).text(entry.name));
+            })
+        });
+
+
+    </script>
+}

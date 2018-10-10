@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Pogoda.Models.Weather>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br>
+<p>
+    @Html.ActionLink("Dodaj miasto", "Create", "Weathers", null, new { @class = "btn btn-success" })
+
+    @Html.ActionLink("Aktualizuj wszystkie", "UpdateAll", "Weathers", null, new { @class = "btn btn-info" })
+
+    @*@Html.ActionLink("", "UpdateAll", "Weathers", null, new { @class = "btn btn-info" }) *@
+</p>
+<table class="table table-responsive">
+    <tr>
+        <th>
+            Id
+        </th>
+        <th>
+            Miasto
+        </th>
+        <th>
+            Kraj
+        </th>
+        <th>
+            Aktualna Temperatura
+        </th>
+        <th>
+            Aktualna Wilgotność
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.UserId)    *@
+            Data ostatniej aktualizacji
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CityCountry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CurrentTemperature)
+                ℃
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CurrentHumidity)
+                %
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateEntrySet)
+            </td>
+            <td>
+                @*@Html.ActionLink("Aktualizuj", "Update", new { id = item.ID }, new { @class = "btn btn-info" })*@
+                @Html.ActionLink("Usuń", "Delete", new { id = item.ID }, new { @class = "btn btn-danger" })
+                @Html.ActionLink("Szczegóły", "Index", "SmallWeathers", new { id = item.ID }, new { @class = "btn btn-success" })
+                @Html.ActionLink("Wykres", "Graph", "SmallWeathers", new { id = item.ID }, new { @class = "btn btn-info" })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+}

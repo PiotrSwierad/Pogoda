@@ -1,0 +1,571 @@
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\ApplicationInsights.config
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Pogoda.dll.config
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Pogoda.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Pogoda.pdb
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\csc.exe
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\csc.exe.config
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\csc.rsp
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\csi.exe
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\csi.exe.config
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\csi.rsp
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.AppContext.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Collections.Immutable.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Console.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.Process.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.IO.Compression.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.IO.Pipes.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Reflection.Metadata.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.AccessControl.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.Claims.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Threading.Thread.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.ValueTuple.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\vbc.exe
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\vbc.exe.config
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\vbc.rsp
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe.config
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Antlr3.Runtime.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\EntityFramework.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\EntityFramework.SqlServer.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.Web.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.ApplicationInsights.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Web.Infrastructure.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Newtonsoft.Json.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Owin.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Helpers.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Mvc.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Optimization.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Razor.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.WebPages.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\WebGrease.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Helpers.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Mvc.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Optimization.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.Razor.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.WebPages.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Newtonsoft.Json.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Antlr3.Runtime.pdb
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\EntityFramework.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\EntityFramework.SqlServer.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.AI.Web.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.csprojAssemblyReference.cache
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CoreCompileInputs.cache
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CopyComplete
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.dll
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.pdb
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.InitialCreate.resources
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.GenerateResource.cache
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig1.resources
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig2.resources
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig3.resources
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig4.resources
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig5.resources
+D:\Moje dokumenty\kod\C#\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig6.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\ApplicationInsights.config
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Pogoda.dll.config
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Pogoda.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Pogoda.pdb
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\csc.exe
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\csc.exe.config
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\csc.rsp
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\csi.exe
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\csi.exe.config
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\csi.rsp
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.AppContext.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Console.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.IO.Compression.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.IO.Pipes.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.Claims.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Threading.Thread.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.ValueTuple.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\vbc.exe
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\vbc.exe.config
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\vbc.rsp
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Antlr3.Runtime.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\EntityFramework.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\EntityFramework.SqlServer.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.Web.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.ApplicationInsights.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Newtonsoft.Json.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Owin.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Helpers.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Mvc.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Optimization.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Razor.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.WebPages.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\WebGrease.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Helpers.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Mvc.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Optimization.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.Razor.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.WebPages.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Newtonsoft.Json.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Antlr3.Runtime.pdb
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\EntityFramework.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\EntityFramework.SqlServer.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.AI.Web.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.csprojAssemblyReference.cache
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.InitialCreate.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig1.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig2.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig3.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig4.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig5.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig6.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.GenerateResource.cache
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CoreCompileInputs.cache
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CopyComplete
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.pdb
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Quartz.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Quartz.pdb
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Quartz.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Common.Logging.Core.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Common.Logging.dll
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Common.Logging.pdb
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Common.Logging.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Common.Logging.Core.pdb
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\bin\Common.Logging.Core.xml
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig7.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig8.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig9.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig10.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig11.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig12.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig13.resources
+C:\Users\p.swierad\Desktop\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig14.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\ApplicationInsights.config
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Pogoda.dll.config
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Pogoda.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Pogoda.pdb
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csc.exe
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csc.exe.config
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csc.rsp
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csi.exe
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csi.exe.config
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csi.rsp
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.AppContext.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Console.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.Compression.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.Pipes.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Claims.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Threading.Thread.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.ValueTuple.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\vbc.exe
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\vbc.exe.config
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\vbc.rsp
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Antlr3.Runtime.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.Core.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.SqlServer.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.Web.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.ApplicationInsights.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Newtonsoft.Json.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Owin.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Quartz.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Helpers.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Mvc.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Optimization.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Razor.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\WebGrease.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.pdb
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.Core.pdb
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.Core.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Quartz.pdb
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Quartz.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Helpers.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Mvc.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Optimization.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Razor.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Newtonsoft.Json.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Antlr3.Runtime.pdb
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.SqlServer.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.Web.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csprojAssemblyReference.cache
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.InitialCreate.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig1.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig2.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig3.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig4.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig5.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig6.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig7.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig8.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig9.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig10.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig11.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig12.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig13.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig14.resources
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.GenerateResource.cache
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CoreCompileInputs.cache
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CopyComplete
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.dll
+C:\Users\p.swierad\Desktop\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.pdb
+E:\Zadania Testowe\Pogoda\Pogoda\bin\ApplicationInsights.config
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Pogoda.dll.config
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Pogoda.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Pogoda.pdb
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csc.exe
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csc.exe.config
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csc.rsp
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csi.exe
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csi.exe.config
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\csi.rsp
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.AppContext.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Collections.Immutable.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Console.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.Process.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.Compression.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.IO.Pipes.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Reflection.Metadata.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.AccessControl.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Claims.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Threading.Thread.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.ValueTuple.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\vbc.exe
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\vbc.exe.config
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\vbc.rsp
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe
+E:\Zadania Testowe\Pogoda\Pogoda\bin\roslyn\VBCSCompiler.exe.config
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Antlr3.Runtime.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.Core.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.SqlServer.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.Web.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.ApplicationInsights.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Web.Infrastructure.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Newtonsoft.Json.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Owin.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Quartz.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Helpers.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Mvc.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Optimization.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Razor.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\WebGrease.dll
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.pdb
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.Core.pdb
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Common.Logging.Core.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Quartz.pdb
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Quartz.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Helpers.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Mvc.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Optimization.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.Razor.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Deployment.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Web.WebPages.Razor.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Newtonsoft.Json.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Antlr3.Runtime.pdb
+E:\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\EntityFramework.SqlServer.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Google.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.DependencyCollector.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.WindowsServer.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.AI.Web.xml
+E:\Zadania Testowe\Pogoda\Pogoda\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csprojAssemblyReference.cache
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.InitialCreate.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig1.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig2.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig3.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig4.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig5.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig6.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig7.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig8.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig9.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig10.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig11.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig12.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig13.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.Migrations.mig14.resources
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.GenerateResource.cache
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CoreCompileInputs.cache
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.csproj.CopyComplete
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.dll
+E:\Zadania Testowe\Pogoda\Pogoda\obj\Debug\Pogoda.pdb
